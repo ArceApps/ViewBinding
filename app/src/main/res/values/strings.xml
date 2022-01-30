@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ViewBinding</string>
+    <string name="button_recycler_view">RecyclerView</string>
+    <string name="button_fragment">Fragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_button_fragment">Hello button fragment</string>
+    <string name="text_hello_button_fragment">Click on hello button fragment</string>
+</resources>
