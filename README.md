@@ -1,2 +1,2 @@
 # ViewBinding
-ViewBinding, Android, Kotlin
+Example ViewBinding with Android Kotlin
